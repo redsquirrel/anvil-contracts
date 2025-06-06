@@ -177,7 +177,7 @@ npx hardhat compile
 ```
 
 ## Discussion
-For any concerns with the protocol, please open an issue and/or visit us on [Discord](https://discord.gg/57YVuqVx) to discuss.
+For any concerns with the protocol, please open an issue and/or visit us on [Discord](https://discord.com/invite/esfFn3dedz) to discuss.
 
 For security concerns, please email security@anvil.xyz.
 
